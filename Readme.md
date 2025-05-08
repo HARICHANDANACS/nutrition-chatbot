@@ -144,10 +144,7 @@ Or you can register a new account.
 
 ---
 
-## 📬 Contact
 
-- **Developer**: BANDI DILLI BABU REDDY
-- **Email**: dillibabureddy2005@gmail.com
 
 ---
 
